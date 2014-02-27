@@ -1,0 +1,4 @@
+\\kc.umkc.edu\kc-users\home\m\mpf3d\my documents\visual studio 2010\Projects\RestService\RestService\bin\RestService.dll
+\\kc.umkc.edu\kc-users\home\m\mpf3d\my documents\visual studio 2010\Projects\RestService\RestService\bin\RestService.pdb
+\\kc.umkc.edu\kc-users\home\m\mpf3d\my documents\visual studio 2010\Projects\RestService\RestService\obj\Debug\RestService.dll
+\\kc.umkc.edu\kc-users\home\m\mpf3d\my documents\visual studio 2010\Projects\RestService\RestService\obj\Debug\RestService.pdb
