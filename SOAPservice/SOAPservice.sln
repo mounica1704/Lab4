@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SOAPservice", "..\..\WebSites\SOAPservice\", "{C5B45646-A2BB-4B7E-B1EE-79D2D9557642}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/SOAPservice"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\SOAPservice\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SOAPservice\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SOAPservice"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\SOAPservice\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SOAPservice\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49834"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5B45646-A2BB-4B7E-B1EE-79D2D9557642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B45646-A2BB-4B7E-B1EE-79D2D9557642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
